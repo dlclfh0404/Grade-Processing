@@ -1,4 +1,5 @@
-## Grade-Processing
+## Grade-Processing (성적 처리)
+***Language : JAVA***<br>
 자바를 활용한 성적 처리 프로그램
 
 ### 프로그램 알고리즘
